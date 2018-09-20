@@ -1,0 +1,24 @@
+body {
+        font-family: Ariel, sans-serif;
+        padding: 5em 20em;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-style: solid;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+
+.quote {
+    text-align: center;
+}
